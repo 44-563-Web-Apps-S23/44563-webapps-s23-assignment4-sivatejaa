@@ -32,16 +32,19 @@
 
 .ZAMA:hover { color: blue; 
   border: dotted 2px saddlebrown;
-  text-shadow: 5px 5px 10px green;
+  font-size: 26px;
+  text-shadow: 5px 5px 3px green;
 }
 
 .OHANO:hover { color: orange; 
   border: dotted 2px saddlebrown;
-  text-shadow: 5px 5px 10px green;
+  font-size: 26px;
+  text-shadow: 5px 5px 3px green;
 }
 .NIJO:hover { color: red; 
+  font-size: 26px;
   border: dotted 2px saddlebrown;
-  text-shadow: 5px 5px 10px green;
+  text-shadow: 5px 5px 3px green;
 }
 
 table, th, td {
